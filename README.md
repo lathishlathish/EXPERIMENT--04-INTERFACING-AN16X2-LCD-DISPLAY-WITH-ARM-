@@ -173,16 +173,25 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 
-
-
+```
+```
+Programmed by: G.Chethan Kumar.
+Register no. : 212222240022
+```
 
 ## Output screen shots of proteus  :
- 
+
+ ![Screenshot 2023-04-24 221001](https://user-images.githubusercontent.com/118348224/234061622-0c5e496b-38c5-4dff-bff8-b57ba8af13ec.png)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
+ ![Screenshot 2023-04-24 221300](https://user-images.githubusercontent.com/118348224/234061974-a9690d21-3575-4f0d-b41a-f98eba02fa35.png)
+
  
 ## Result :
+
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
