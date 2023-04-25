@@ -186,7 +186,8 @@ Register no. : 212222230073
 ![image](https://user-images.githubusercontent.com/120359170/234188967-c7b67cca-f1ec-4b29-a830-7021a31e2528.png)
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/120359170/234335967-4fad420b-89d2-41f7-9474-a5367990f9c1.png)
+
 
 ## Result :
 
