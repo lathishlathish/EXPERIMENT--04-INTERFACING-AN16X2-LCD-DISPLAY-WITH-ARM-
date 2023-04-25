@@ -177,8 +177,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ```
 ```
-Programmed by: G.Chethan Kumar.
-Register no. : 212222240022
+Programmed by: M.LATHISH KANNA.
+Register no. : 212222230073
 ```
 
 ## Output screen shots of proteus  :
