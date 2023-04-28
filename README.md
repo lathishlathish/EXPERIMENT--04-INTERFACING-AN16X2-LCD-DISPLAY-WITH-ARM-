@@ -192,10 +192,9 @@ int main(void)
   while (1)
   {
     	Lcd_cursor(&lcd,1,1);
-    	  	  Lcd_string(&lcd,"M.LATHISH KANNA");
+    	  	  Lcd_string(&lcd,"M.lathish kanna");
   }
 }
-
 ```
 ```
 Programmed by: M.LATHISH KANNA.
