@@ -188,7 +188,7 @@ int main(void)
   	  Lcd_HandleTypeDef lcd;
   	  lcd=Lcd_create(ports,pins,GPIOB,GPIO_PIN_0,GPIOB,GPIO_PIN_1,LCD_4_BIT_MODE);
   	  Lcd_cursor(&lcd,0,1);
-  	  Lcd_string(&lcd,"SEC - AIML");
+  	  Lcd_string(&lcd,"SEC - AIDS");
   while (1)
   {
     	Lcd_cursor(&lcd,1,1);
@@ -203,10 +203,12 @@ Register no. : 212222230073
 
 ## Output screen shots of proteus  :
 
-![image](https://user-images.githubusercontent.com/120359170/234188967-c7b67cca-f1ec-4b29-a830-7021a31e2528.png)
+
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://user-images.githubusercontent.com/120359170/234335967-4fad420b-89d2-41f7-9474-a5367990f9c1.png)
+![image](https://github.com/lathishlathish/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/120359170/269f4181-4229-4855-8a22-f287382039fb)
+![image](https://github.com/lathishlathish/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/120359170/3197d781-93a5-4c8a-895e-9116c7b93291)
+
 
 
 ## Result :
