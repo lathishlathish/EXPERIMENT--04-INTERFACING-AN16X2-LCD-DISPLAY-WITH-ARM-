@@ -190,9 +190,8 @@ int main(void)
   	  Lcd_cursor(&lcd,0,1);
   	  Lcd_string(&lcd,"SEC - AIDS");
   while (1)
+{
   {
-    	Lcd_cursor(&lcd,1,1);
-    	  	  Lcd_string(&lcd,"M.lathish kanna");
   }
 }
 ```
